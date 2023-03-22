@@ -3,4 +3,5 @@ Student registration form using PyQt5 and OpenCV modules with face detection wit
 
 
 # Loading the required environment
+
 asd
