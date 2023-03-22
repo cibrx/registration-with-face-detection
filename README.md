@@ -3,10 +3,10 @@
 
 
 # Loading the required environment
-  >>pip install cv2
-  >>pip install PyQt5
-  >>pip install Tk
-  >>pip install mysql.connector
+ >>>pip install cv2
+ >>>pip install PyQt5
+ >>>pip install Tk
+ >>>pip install mysql.connector
 
 # How to use 
   The application will save the photos taken in the same directory.
