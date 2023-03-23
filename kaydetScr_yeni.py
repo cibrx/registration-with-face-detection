@@ -104,7 +104,7 @@ class KisiEkle(QtWidgets.QMainWindow):
         
     
     def Kaydet(self):
-        if self.ui.radio_Erkek.isChecked:
+        if self.ui.radio_Erkek.isChecked()==True and self.ui.radio_Kiz.isChecked()==False:
             self.cinsiyet="Erkek"
         else:
             self.cinsiyet="Kız"  
