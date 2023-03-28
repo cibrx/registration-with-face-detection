@@ -1,7 +1,7 @@
 # registration-form-with-face-detection
   Student registration form using PyQt5 and OpenCV modules with face detection with Python
 
-<img src="https://raw.githubusercontent.com/LegendMan46/registration-form-with-face-detection/main/image.png" alt="alt text" width="320" height="180">
+<img src="https://github.com/LegendMan46/Translate-And-Save/blob/main/image.png" alt="alt text" width="320" height="180">
 
 
 # Loading the required environment
